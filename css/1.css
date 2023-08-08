@@ -139,7 +139,6 @@ li {
 }
 
 #sidebar {
-	position: fixed;
 	width:160px;
 	float:right;
 	font-size:95%;
