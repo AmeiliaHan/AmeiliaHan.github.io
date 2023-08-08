@@ -139,6 +139,7 @@ li {
 }
 
 #sidebar {
+	position: fixed;
 	width:160px;
 	float:right;
 	font-size:95%;
@@ -157,8 +158,7 @@ li {
 .submenu {
 }
 .submenu a {
-	display:block;
-	position: fixed;
+	display:block;	
 	width:100%;
 	background-image:url(../images/backgrounds/submenua.gif);
 	background-position:right;
